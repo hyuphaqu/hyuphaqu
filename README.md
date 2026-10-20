@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=hyuphaqu&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Developer%20%7C%20AI%20%26%20Web&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="hyuphaqu header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=hyuphaqu&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Developer%20%7C%20AI%20and%20Web&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="hyuphaqu header"/>
 
 <!-- Typing intro -->
 <a href="https://git.io/typing-svg">
